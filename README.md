@@ -6,6 +6,8 @@ Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 
 * Full Stack Engineering (MERN - MongoDB, Express, React, Node.js) certificate from UC Davis
 * AWS Practitioner certificate (2023, current)
+* Web Accessibility certificate from W3 Consortium
+* Write the Docs 2021 Speaker
 * Automation planning
 * Simple systems, intake, and Agile practices
 * People management
