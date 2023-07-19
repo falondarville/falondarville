@@ -10,6 +10,7 @@ Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 * Simple systems, intake, and Agile practices
 * People management
 * Terraform, CircleCI, GitHub, bash, scripting, Python
+* docs-as-code, API documentation, end user documentation, engineering documentation
 
 ## Experience
 
