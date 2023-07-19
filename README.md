@@ -2,7 +2,7 @@ Currently seeking an Engineering Manager or DevOps Infra Engineering role. If yo
 
 Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 
-## Skills
+## Skills and Certifications
 
 * [Full Stack Engineering (MERN - MongoDB, Express, React, Node.js) certificate from UC Davis](https://www.credly.com/badges/145b6b28-7016-4a27-a1b4-b5c0e125b4e9)
 * [AWS Certified Cloud Practitioner certificate](https://www.credly.com/badges/680071b9-c4bf-4ca1-8394-2fdcbc66453f)
@@ -14,7 +14,7 @@ Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 * Terraform, CircleCI, GitHub, bash, scripting, Python
 * docs-as-code, API documentation, end user documentation, engineering documentation
 
-## Experience
+## Recent Experience
 
 **Engineering Manager, Cisco**
 * Optimized deployment time from 48 hours to 14.5 hours (33.5 hours of decreased customer impact)
