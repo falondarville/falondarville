@@ -12,7 +12,7 @@ I simplify systems and concepts, lead with resilience and rigor, and democratize
 
 ## Skills and Certifications
 
-Working on: Terraform Associate Certification
+Working on: [Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)
 
 * [Full Stack Engineering (MERN - MongoDB, Express, React, Node.js) certificate from UC Davis](https://www.credly.com/badges/145b6b28-7016-4a27-a1b4-b5c0e125b4e9)
 * [AWS Certified Cloud Practitioner certificate](https://www.credly.com/badges/680071b9-c4bf-4ca1-8394-2fdcbc66453f)
