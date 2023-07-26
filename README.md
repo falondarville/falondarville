@@ -2,7 +2,7 @@ Currently seeking an Engineering Manager or DevOps Infra Engineering role. If yo
 
 Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 
-## ENGINEERING MANAGER | KNOWLEDGE MANAGEMENT | DEVOPS ENGINEER
+### ENGINEERING MANAGER | KNOWLEDGE MANAGEMENT | DEVOPS ENGINEER
 
 I simplify systems and concepts, lead with resilience and rigor, and democratize technical solutions. My main goals in professional contexts are:
 
