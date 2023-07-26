@@ -28,6 +28,6 @@ Working on: [Terraform Associate Certification](https://www.hashicorp.com/certif
 
 **Engineering Manager, Cisco**
 * Optimized deployment time from 48 hours to 14.5 hours (33.5 hours of decreased customer impact)
-* Increased the high function of the App Deployment team by simplifying processes
+* Increased the high function of the App Deployment team by simplifying processes - higher requirements for engineers, increased technical maturity.
 * Built a streamlined intake process for the team's many functions. Moved the team from wiki status to Jira status - our customers can self-serve status.
 * Lead with resiliency, empathy, and rigor
