@@ -4,11 +4,13 @@ Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 
 ### ENGINEERING MANAGER | KNOWLEDGE MANAGEMENT | DEVOPS ENGINEER
 
-I simplify systems and concepts, lead with resilience and rigor, and democratize technical solutions. My main goals in professional contexts are:
+In professional settings, my primary objectives are threefold:
 
-- Making systems understandable to the most amount of people (simplifying instructions, visual/intellectual accessibility)
-- Understanding limitations and places of expansion (in systems, technologies, and people)
-- Leading with a strong understanding of my team’s motivations and strengths
+1. Simplifying systems and concepts, ensuring they are accessible to a wide audience through clear instructions and visual aids, promoting both understanding and intellectual accessibility.
+
+2. Recognizing the boundaries and opportunities for growth within systems, technologies, and individuals, fostering an environment of continuous improvement and expansion.
+
+3. Guiding my team with a profound comprehension of their motivations and strengths, leading with resilience and rigor to achieve collective success. Additionally, I strive to democratize technical solutions, making them widely available and applicable to various contexts.
 
 ## Skills and Certifications
 
