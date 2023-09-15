@@ -2,7 +2,7 @@ Currently seeking a Knowledge Management, Technical Writing Manager, or Engineer
 
 Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 
-### ENGINEERING MANAGER | KNOWLEDGE MANAGEMENT | DEVOPS ENGINEER
+### ENGINEERING MANAGER | TECHNICAL WRITING MANAGER | KNOWLEDGE MANAGEMENT | DOCS-AS-CODE
 
 In professional settings, my primary objectives are threefold:
 
