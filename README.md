@@ -14,12 +14,11 @@ In professional settings, my primary objectives are threefold:
 
 ## Skills and Certifications
 
-Working on: [Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)
-
 * [Full Stack Engineering (MERN - MongoDB, Express, React, Node.js) certificate from UC Davis](https://www.credly.com/badges/145b6b28-7016-4a27-a1b4-b5c0e125b4e9)
 * [AWS Certified Cloud Practitioner certificate](https://www.credly.com/badges/680071b9-c4bf-4ca1-8394-2fdcbc66453f)
 * [Web Accessibility certificate from W3 Consortium](https://courses.edx.org/certificates/0326f12ad7194bc18161d89c8a2a9958)
 * [Write the Docs 2021 Speaker](https://www.youtube.com/watch?v=f7hHwGvR0_Q)
+* [Terraform Associate Certification](https://www.credly.com/badges/01216564-6b38-484d-8a1a-d8474b835664)
 * Automation planning
 * Simple systems, intake, and Agile practices
 * People management
