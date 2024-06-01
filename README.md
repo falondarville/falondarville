@@ -6,11 +6,11 @@ Reach out to me on LinkedIn: https://www.linkedin.com/in/falon-darville/
 
 In professional settings, my primary objectives are threefold:
 
-1. Simplifying systems and concepts, ensuring they are accessible to a wide audience through clear instructions and visual aids, promoting both understanding and intellectual accessibility.
+1. Simplifying systems and concepts, ensuring they are accessible to a wide audience. I especially love open source. 
 
 2. Recognizing the boundaries and opportunities for growth within systems, technologies, and individuals, fostering an environment of continuous improvement and expansion.
 
-3. Guiding my team with a profound comprehension of their motivations and strengths, leading with resilience and rigor to achieve collective success. Additionally, I strive to democratize technical solutions, making them widely available and applicable to various contexts.
+3. Guiding my team with understanding of their motivations and strengths, and leading with resilience and rigor to achieve collective success.
 
 ## Skills and Certifications
 
@@ -24,6 +24,7 @@ In professional settings, my primary objectives are threefold:
 * People management
 * Terraform, CircleCI, GitHub, bash, scripting, Python
 * docs-as-code, API documentation, end user documentation, engineering documentation
+* open source, public speaking, representation at conferences, developer advocacy
 
 ## Recent Experience
 
@@ -33,3 +34,4 @@ In professional settings, my primary objectives are threefold:
 * Built a streamlined intake process for the team's many functions. Moved the team from wiki status to Jira status - our customers can self-serve status. Reduced interruptions to engineers during their day-to-day work
 * Lead a team of DevOps Software Engineers in multiple US time zones and India with resiliency, empathy, and rigor. Understanding of working with international teams, which emphasis on creating natural connection by instilling excitement and innovation into work
 
+For more experience, see my LinkedIn: https://www.linkedin.com/in/falon-darville/
